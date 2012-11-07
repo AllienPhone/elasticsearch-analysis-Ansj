@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="contrib/ansj_lucene_32_plug.jar"/>
+	<classpathentry kind="lib" path="contrib/ansj_lucene_40_plug.jar"/>
+	<classpathentry kind="lib" path="contrib/ansj_seg.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Work/Eaxm/JavaWorkSpace/EsIndex/lib/lucene-analyzers-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Eaxm/JavaWorkSpace/EsIndex/lib/lucene-core-3.6.1.jar" sourcepath="C:/Users/Jeffrey/.m2/repository/org/apache/lucene/lucene-core/3.6.1/lucene-core-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Work/Eaxm/JavaWorkSpace/EsIndex/lib/elasticsearch-0.19.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
